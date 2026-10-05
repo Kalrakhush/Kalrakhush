@@ -7,7 +7,7 @@
 **Building things that think.** RAG · multi-agent systems · MCP · production LLM apps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-khushpreets016-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushpreets016)
-[![YouTube](https://img.shields.io/badge/YouTube-Bytesize%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bytesizeai)
+[![YouTube](https://img.shields.io/badge/YouTube-Bytesize%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bytesizeaii)
 [![Email](https://img.shields.io/badge/Email-khushpreets016%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushpreets016@gmail.com)
 
 </div>
